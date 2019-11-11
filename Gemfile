@@ -10,6 +10,8 @@ gem 'devise'
 # styling gem
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'iex-ruby-client'
+gem 'stock_quote'
 # jquery
 gem 'jquery-rails'
 # Use Puma as the app server
