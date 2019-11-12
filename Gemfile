@@ -10,7 +10,7 @@ gem 'devise'
 # styling gem
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'iex-ruby-client'
+gem 'iex-ruby-client', '~> 1.1.0'
 gem 'stock_quote'
 # jquery
 gem 'jquery-rails'
